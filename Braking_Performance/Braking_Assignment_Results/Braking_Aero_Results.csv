@@ -1,0 +1,3 @@
+Test,Original_cd,Original_cz,Increased_cd,Increased_cz,OriginalAeroTime_s,IncreasedAeroTime_s,TimeImprovement_s,PercentageImprovement
+300-180 km/h,0.4,1,0.6,1.5,2.49761026589674,2.35857654844737,0.139033717449376,5.56666984228052
+180-100 km/h,0.4,1,0.6,1.5,2.10804057137589,2.05540946945252,0.0526311019233745,2.49668353816468
